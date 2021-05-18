@@ -1,0 +1,13 @@
+C:\Users\felna\source\repos\trayracer\trayracer\bin\Debug\trayracer.exe.config
+C:\Users\felna\source\repos\trayracer\trayracer\bin\Debug\trayracer.exe
+C:\Users\felna\source\repos\trayracer\trayracer\bin\Debug\trayracer.pdb
+C:\Users\felna\source\repos\trayracer\trayracer\obj\Debug\trayracer.csprojAssemblyReference.cache
+C:\Users\felna\source\repos\trayracer\trayracer\obj\Debug\trayracer.exe
+C:\Users\felna\source\repos\trayracer\trayracer\obj\Debug\trayracer.pdb
+\\tcrw.ddns.net\files\DIY Programs and codes\Felnagy\trayracer\trayracer\bin\Debug\trayracer.exe.config
+\\tcrw.ddns.net\files\DIY Programs and codes\Felnagy\trayracer\trayracer\bin\Debug\trayracer.exe
+\\tcrw.ddns.net\files\DIY Programs and codes\Felnagy\trayracer\trayracer\bin\Debug\trayracer.pdb
+\\tcrw.ddns.net\files\DIY Programs and codes\Felnagy\trayracer\trayracer\obj\Debug\trayracer.csprojAssemblyReference.cache
+\\tcrw.ddns.net\files\DIY Programs and codes\Felnagy\trayracer\trayracer\obj\Debug\trayracer.exe
+\\tcrw.ddns.net\files\DIY Programs and codes\Felnagy\trayracer\trayracer\obj\Debug\trayracer.pdb
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\trayracer\trayracer\obj\Debug\trayracer.csproj.CoreCompileInputs.cache
